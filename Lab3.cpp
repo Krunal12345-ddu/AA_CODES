@@ -1,3 +1,5 @@
+//Ford fulkerson algo to find max flow
+
 #include <bits/stdc++.h>
 
 #define n 6
