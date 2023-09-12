@@ -1,3 +1,5 @@
+//Karger's mincut
+
 #include <cstdlib>
 #include <iostream>
 
